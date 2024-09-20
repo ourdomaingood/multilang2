@@ -29,7 +29,7 @@ var langs = {
         text3: 'Bitte halte ihre Identität geheim!',
         btn: 'ICH STIMME ZU'
     },
-    cz: {
+    cs: {
         text1: 'To NENÍ seznamovací stránka!',
         text2: 'Jednoduše si vybereš ženu a požádáš o sex!',
         text3: 'Prosím, udržuj jejich identitu v tajnosti!',
